@@ -1,0 +1,18 @@
+h3 {
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+}
+
+.contact {
+  padding: 20px;
+  background-color: #fa8072;
+  color: #fafafa;
+}
+
+.btn {
+  background-color: #fafafa;
+  color: #fafafa;
+}
